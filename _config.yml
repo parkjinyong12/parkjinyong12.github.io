@@ -102,14 +102,14 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: 
     url: 
     desc: Connect with me on LinkedIn
     share: false
 
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: 
     url: 
     desc: Follow me on Twitter
     share: false
