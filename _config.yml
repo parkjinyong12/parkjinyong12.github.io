@@ -25,7 +25,7 @@ url: "http://parkjinyong12.github.io" # the base hostname & protocol for your si
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
-# Build settings
+# Build settings 
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
