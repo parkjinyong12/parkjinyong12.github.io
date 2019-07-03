@@ -88,17 +88,17 @@ social:
 
   - name: Home
     icon: home
-    username: ruokit.com
+    username: ITBUS
     url: http://www.ruokit.com
     desc: Connect with me on My Homepage
     share: true
     
   - name: Naver Blog
     icon: blog
-    username: methere12
-    url: http://blog.naver.com/methere12
+    username: 
+    url: 
     desc: Connect with me on My Blog
-    share: true    
+    share: false    
 
   - name: LinkedIn
     icon: linkedin
