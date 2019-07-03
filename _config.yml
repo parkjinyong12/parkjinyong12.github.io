@@ -72,6 +72,13 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
+  - name: Twitter
+    icon: twitter
+    username: TheBenCentra
+    url: https://twitter.com/TheBenCentra
+    desc: Follow me on Twitter
+    share: true
+
   - name: Facebook
     icon: facebook
     username: 박진용
@@ -84,6 +91,97 @@ social:
     username: parkjinyong12
     url: https://github.com/parkjinyong12
     desc: Fork me on GitHub
+    share: true
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Ben Centra
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    desc: Connect with me on LinkedIn
+    share: true
+
+  - name: Google+
+    icon: google-plus
+    username:
+    url:
+    desc: Add me to your Circles
+    share: true
+
+  - name: YouTube
+    icon: youtube
+    username:
+    url:
+    desc: Subscribe on YouTube
+    share: true
+
+  - name: Instagram
+    icon: instagram
+    username:
+    url:
+    desc: Follow me on Instagram
+    share: true
+
+  - name: Pinterest
+    icon: pinterest
+    username:
+    url:
+    desc: Follow me on Pinterest
+    share: true
+
+  - name: SoundCloud
+    icon: soundcloud
+    username:
+    url:
+    desc: Follow me on SoundCloud
+    share: true
+
+  - name: Tumblr
+    icon: tumblr
+    username:
+    url:
+    desc: Follow me on Tumblr
+    share: true
+
+  - name: Steam
+    icon: steam
+    username:
+    url:
+    desc: Friend me on Steam
+    share: true
+
+  - name: Dribbble
+    icon: dribbble
+    username:
+    url:
+    desc: Follow me on Dribble
+    share: true
+
+  - name: Vimeo
+    icon: vimeo-square
+    username:
+    url:
+    desc: Follow me on Vimeo
+    share: true
+
+  - name: Vine
+    icon: vine
+    username:
+    url:
+    desc: Follow me on Vine
+    share: true
+
+  - name: Reddit
+    icon: reddit
+    username:
+    url:
+    desc: Share to Reddit
+    share: true
+
+  - name: "Hacker News"
+    icon: hacker-news
+    username:
+    url:
+    desc: Share to Hacker News
     share: true
 
 # Social sharing protocols
