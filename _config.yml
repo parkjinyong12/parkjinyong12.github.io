@@ -78,19 +78,19 @@ social:
     url: https://github.com/parkjinyong12
     desc: Fork me on GitHub
     share: true
-    
-  - name: Facebook
-    icon: facebook
-    username: 박진용
-    url: https://www.facebook.com/pjy.methere
-    desc: Friend me on Facebook
-    share: true
 
   - name: Home
     icon: home
     username: ITBUS
     url: http://www.ruokit.com
     desc: Connect with me on My Homepage
+    share: true
+    
+  - name: Facebook
+    icon: facebook
+    username: 박진용
+    url: https://www.facebook.com/pjy.methere
+    desc: Friend me on Facebook
     share: true
     
   - name: Naver Blog
