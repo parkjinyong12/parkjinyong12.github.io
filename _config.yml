@@ -77,8 +77,15 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
+    share: false
+    
+  - name: GitHub
+    icon: github
+    username: parkjinyong12
+    url: https://github.com/parkjinyong12
+    desc: Fork me on GitHub
     share: true
-
+    
   - name: Facebook
     icon: facebook
     username: 박진용
@@ -86,11 +93,11 @@ social:
     desc: Friend me on Facebook
     share: true
 
-  - name: GitHub
-    icon: github
-    username: parkjinyong12
-    url: https://github.com/parkjinyong12
-    desc: Fork me on GitHub
+  - name: Home
+    icon: home
+    username: ruokit.com
+    url: http://www.ruokit.com
+    desc: Connect with me on My Homepage
     share: true
 
   - name: LinkedIn
@@ -98,91 +105,91 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
     username:
     url:
     desc: Subscribe on YouTube
-    share: true
+    share: false
 
   - name: Instagram
     icon: instagram
     username:
     url:
     desc: Follow me on Instagram
-    share: true
+    share: false
 
   - name: Pinterest
     icon: pinterest
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
     username:
     url:
     desc: Follow me on SoundCloud
-    share: true
+    share: false
 
   - name: Tumblr
     icon: tumblr
     username:
     url:
     desc: Follow me on Tumblr
-    share: true
+    share: false
 
   - name: Steam
     icon: steam
     username:
     url:
     desc: Friend me on Steam
-    share: true
+    share: false
 
   - name: Dribbble
     icon: dribbble
     username:
     url:
     desc: Follow me on Dribble
-    share: true
+    share: false
 
   - name: Vimeo
     icon: vimeo-square
     username:
     url:
     desc: Follow me on Vimeo
-    share: true
+    share: false
 
   - name: Vine
     icon: vine
     username:
     url:
     desc: Follow me on Vine
-    share: true
+    share: false
 
   - name: Reddit
     icon: reddit
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
     username:
     url:
     desc: Share to Hacker News
-    share: true
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
