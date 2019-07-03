@@ -81,14 +81,14 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: 박진용
     url: https://www.facebook.com/pjy.methere
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: parkjinyong12
     url: https://github.com/parkjinyong12
     desc: Fork me on GitHub
     share: true
