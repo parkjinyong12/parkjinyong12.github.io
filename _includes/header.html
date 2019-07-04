@@ -16,7 +16,6 @@
           {% if page.title and page.main_nav != false %}
             <span>{{ page.url }}</span>
             <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% endif %}    
           {% endif %}
         {% endfor %}
       </ul>
