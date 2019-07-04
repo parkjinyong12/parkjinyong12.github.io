@@ -3,12 +3,12 @@ layout: post
 title:  "BaseWeb"
 date:   2019-07-04 12:27:59
 author: 박진용
-categories: 개인프로젝트
+categories: 개인 프로젝트
 tags:	project
 cover:  "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+이 프로젝트는 웹 프로젝트 수행 시 사용하기 편하게 기본적인 기능을 구현해 놓은 소스로 구성되어 있습니다. 사용자는 해당 프로젝트를 사용하여, 추가적인 작업을 진행 할 수 있습니다.
 
 ## Adding New Posts
 
