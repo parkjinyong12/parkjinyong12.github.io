@@ -3,7 +3,7 @@ layout: post
 title:  "BaseWeb"
 date:   2019-07-04 12:27:59
 author: 박진용
-categories: 경력 
+categories: 경력 포트폴리오
 tags:	project
 cover:  "/assets/instacode.png"
 ---
