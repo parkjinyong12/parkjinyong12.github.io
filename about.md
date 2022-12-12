@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 소개
+title: 나를 소개하는 글
 permalink: /about/
 ---
 
