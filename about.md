@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-스프링 프레임워크로 웹개발 업무 수행.
+스프링 프레임워크를 사용하고 요구사항에 따라 서비스를 개발한 경험이 있습니다.
 
 사용자 요구사항 인터뷰 및 시스템 분석, 개발 능력 보유
 
